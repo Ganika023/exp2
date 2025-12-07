@@ -1,2 +1,6 @@
 “Hello Github”
+<<<<<<< HEAD
 master branch edit
+=======
+feature branch conflicting edit
+>>>>>>> feature-branch
